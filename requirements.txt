@@ -1,0 +1,7 @@
+pyrogram>=2.0.0
+TgCrypto>=1.2.5
+aiohttp
+duckduckgo_search
+google-genai
+beautifulsoup4
+gTTS
